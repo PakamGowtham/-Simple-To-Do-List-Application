@@ -18,3 +18,9 @@ To-Do List Application Instructions
 Note: Use the provided options by entering the respective numbers to perform the desired action.
 
 Enjoy managing your tasks with this to-do list application!
+This file lists the Python packages required to run the To-Do List Application.
+
+- No external packages are required for this basic to-do list application.
+- The application uses standard Python libraries.
+
+To run the application, ensure you have Python installed on your system
